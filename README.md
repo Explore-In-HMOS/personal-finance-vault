@@ -2,7 +2,7 @@
 
 # Personal Finance Vault
 
-Personal Finance Vault is a fully functional wearable watch application for **HarmonyOS NEXT** wearable devices,
+Personal Finance Vault is a fully functional wearable watch application for **HarmonyOS** wearable devices,
 developed using **ArkTS**, that helps users securely track, manage, and analyze their personal finances on the go.
 
 # Preview
@@ -26,7 +26,7 @@ developed using **ArkTS**, that helps users securely track, manage, and analyze 
    with visual indicators on the watch.
 5. Secure Login with Backup & Restore: The vault is protected with secure PIN, and users can safely back up data to the
    device or restore it later.
-6. Battery-Friendly Performance: Optimized for HarmonyOS NEXT wearables, the app runs efficiently with minimal battery
+6. Battery-Friendly Performance: Optimized for HarmonyOS wearables, the app runs efficiently with minimal battery
    consumption for all-day usage.
 
 # Tech Stack
